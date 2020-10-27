@@ -1,3 +1,7 @@
-> In this example, we’ll write a Node.js program that uses the Rinkeby endpoints and sends an RPC request to Infura to get the latest block data using eth_getBlockByNumber. From there, we will convert that block number from hex to integer and print the integer block number to the terminal.
+
 
 - https://blog.infura.io/getting-started-with-infuras-ethereum-api/?utm_source=social&utm_medium=twitter&utm_campaign=getting_started_eth_api
+
+- https://www.npmjs.com/package/request
+
+- https://www.npmjs.com/package/ws
